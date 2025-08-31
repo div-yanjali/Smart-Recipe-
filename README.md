@@ -92,12 +92,6 @@ Search by name, cuisine, tags, filter by diet & time, drop a photo of ingredient
 
 ---
 
-## 📸 Demo
-![Smart Recipe Generator Screenshot](./public/demo.png)
-![Smart Recipe Generator Screenshot](./public/demo1.png)
-![Smart Recipe Generator Screenshot](./public/demo2.png)
-
----
 
 ## 🛠 Getting Started
 
@@ -122,3 +116,4 @@ npm run dev
 📦 Deployment
 
 Deployed on Vercel → https://smart-recipe-generator-3qli.vercel.app/
+
